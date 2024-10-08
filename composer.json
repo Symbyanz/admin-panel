@@ -1,0 +1,18 @@
+{
+    "name": "pankr/ap",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Symbyanz",
+            "email": "pankratov.symbyanz@bk.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pankr\\ap\\": "src/"
+        }
+    }
+}
